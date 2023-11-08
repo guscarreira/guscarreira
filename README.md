@@ -1,5 +1,5 @@
 ### Olá, me chamo Luiz Gustavo, mais conhecido como Gustavo.
-Estou iniciando minha carreira no mundo do desenvolvimento, mais especificamente, Desenvolvimento Back-end, aqui neste perfil, serão postados meus projetos e minha evolução na programação!
+Estou iniciando minha carreira no mundo do desenvolvimento, mais especificamente, Robotic Process Automation, aqui neste perfil, serão postados meus projetos e minha evolução na programação!
 
 <!--
 **guscarreira/guscarreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
